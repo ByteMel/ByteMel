@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ByteMel {pseudo-name}.
-- 👀 I’m interested in Machine Learning, Full-stack Development, and many more. 
+- 👀 I’m interested in Machine Learning, Full-stack Development, NLP and many more. 
 - 🌱 I’m currently learning Software Engineering & Computer Science.
 
 *   Happy Coding!
