@@ -10,7 +10,7 @@
 ## :computer: Technologies I Love
 * Flutter
 * Machine Learning
-* Data Science
+* Data Analysis
 * Frontend and Backend Web Development
 
 
@@ -39,6 +39,7 @@
 		LearnChinese()
 		CreateTherapy_App()
 		FinishMyNovel()
+		Data Science()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
