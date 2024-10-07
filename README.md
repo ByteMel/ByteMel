@@ -1,10 +1,10 @@
-## Hey, [Timothy Mwangi Here!]([https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA](https://www.linkedin.com/in/timothy-mwangi/))  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Timothy Mwangi Here!]([https://www.linkedin.com/in/timothy-mwangi/])  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-tim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-mwangi/)](https://www.linkedin.com/in/timothy-mwangi/) [![Gmail Badge](https://img.shields.io/badge/-t.mwangim02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t.mwangim02@gmail.com)](mailto:t.mwangim02@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Timothy_Mwangi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-mwangi/)](https://www.linkedin.com/in/timothy-mwangi/) [![Gmail Badge](https://img.shields.io/badge/-t.mwangim02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t.mwangim02@gmail.com)](mailto:t.mwangim02@gmail.com) 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
