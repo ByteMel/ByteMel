@@ -2,9 +2,10 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/bytemel/readme/blob/main/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Timothy_Mwangi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-mwangi/)](https://www.linkedin.com/in/timothy-mwangi/) [![Gmail Badge](https://img.shields.io/badge/-t.mwangim02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t.mwangim02@gmail.com)](mailto:t.mwangim02@gmail.com) 
+<p align="left"> <img src="https://camo.githubusercontent.com/1fe8bfaac1774657e8d8ab582fd71f0c7ef0e239a230d65d9acb68059d5fe9d4/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d6172696b497368746172303037" alt="Timothy-Mwangi Profile Views" /> </p>
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
