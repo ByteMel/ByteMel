@@ -44,6 +44,8 @@
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
+
+[![streak](https://codeium.com/badges/v2/user/tim-mwangi/streak)](https://codeium.com/profile/tim-mwangi)
  
 ## Current Works
  * Breaking into AI !!
